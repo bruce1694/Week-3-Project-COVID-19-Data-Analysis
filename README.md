@@ -1,4 +1,4 @@
-Key Insights:
+**Key Insights:**
 
 1. The dataset includes data from over X countries globally.
 2. The top 3 countries by confirmed cases are: USA, India, Brazil.
